@@ -17,7 +17,7 @@ $$
 - для $\mathbf{X}$: $X_{i,j} \sim \mathcal{D}_{i,j}(\theta)$ — нормальное, логнормальное, бета и т.д.
 - для $\mathbf{Y}$: $Y_{k,l} \sim \text{Categorical}(p_1, ..., p_r)$ — вероятности по категориям мнений.
 
-Модель $\mathcal{M}$ может изменяться во времени: $\mathcal{M}_t \rightarrow \mathcal{M}_{t+1} = \mathcal{M}_t + \Delta\mathcal{M}$
+Модель $\mathcal{M}$ может изменяться во времени: $\mathcal{M_t} \rightarrow \mathcal{M_{t+1}} = \mathcal{M_t} + \Delta\mathcal{M}$
 
 ## Обоснование перехода к эмпирической модели
 
