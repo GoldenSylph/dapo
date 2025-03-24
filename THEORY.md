@@ -19,7 +19,7 @@ $$
 
 Модель $\mathcal{M}$ может изменяться во времени:
 
-$\mathcal{M}_t \rightarrow \mathcal{M}_{t+1} = \mathcal{M}_t + \Delta\mathcal{M}$
+$\mathcal{M}_{t} \rightarrow \mathcal{M}_{t+1} = \mathcal{M}_{t} + \Delta\mathcal{M}$
 
 ## Обоснование перехода к эмпирической модели
 
